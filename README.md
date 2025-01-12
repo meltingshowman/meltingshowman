@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 Update API endpoint
 Remove unused imports
+Clean up codebase
