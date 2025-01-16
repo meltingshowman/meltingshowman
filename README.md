@@ -27,3 +27,4 @@ Refactor core logic
 Optimize loop
 Update configuration
 Optimize loop
+Add test cases
