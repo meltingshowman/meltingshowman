@@ -24,3 +24,4 @@ Fix broken link
 Improve logging
 Improve logging
 Refactor core logic
+Optimize loop
