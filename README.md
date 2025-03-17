@@ -21,3 +21,4 @@ Add new utility script
 Update API endpoint
 Add documentation
 Fix broken link
+Improve logging
